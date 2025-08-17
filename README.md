@@ -1,3 +1,3 @@
-# goit-markup-hw-04
+# goit-markup-hw-06
 
-This is my homework about modal form.
+This is my homework about responsive design.
