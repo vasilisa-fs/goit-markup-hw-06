@@ -641,6 +641,7 @@ img {
   border-color: #4D5AE5;
 }
 .modal-field-rules{
+  display: flex;
   margin-bottom: 24px;
 }
 .modal-custom-checkbox{
