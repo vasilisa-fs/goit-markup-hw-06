@@ -1051,6 +1051,7 @@ button{
     margin-right: 8px;
     background-color: transparent;
     fill: transparent;
+    flex-shrink: 0;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), 
     border 250ms cubic-bezier(0.4, 0, 0.2, 1), 
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
